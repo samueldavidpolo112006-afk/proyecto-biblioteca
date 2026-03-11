@@ -1,0 +1,15 @@
+/workspaces/proyecto-biblioteca/biblioteca-menu/bin/Debug/net10.0/biblioteca-menu
+/workspaces/proyecto-biblioteca/biblioteca-menu/bin/Debug/net10.0/biblioteca-menu.deps.json
+/workspaces/proyecto-biblioteca/biblioteca-menu/bin/Debug/net10.0/biblioteca-menu.runtimeconfig.json
+/workspaces/proyecto-biblioteca/biblioteca-menu/bin/Debug/net10.0/biblioteca-menu.dll
+/workspaces/proyecto-biblioteca/biblioteca-menu/bin/Debug/net10.0/biblioteca-menu.pdb
+/workspaces/proyecto-biblioteca/biblioteca-menu/obj/Debug/net10.0/biblioteca-menu.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/proyecto-biblioteca/biblioteca-menu/obj/Debug/net10.0/biblioteca-menu.AssemblyInfoInputs.cache
+/workspaces/proyecto-biblioteca/biblioteca-menu/obj/Debug/net10.0/biblioteca-menu.AssemblyInfo.cs
+/workspaces/proyecto-biblioteca/biblioteca-menu/obj/Debug/net10.0/biblioteca-menu.csproj.CoreCompileInputs.cache
+/workspaces/proyecto-biblioteca/biblioteca-menu/obj/Debug/net10.0/biblioteca-menu.sourcelink.json
+/workspaces/proyecto-biblioteca/biblioteca-menu/obj/Debug/net10.0/biblioteca-menu.dll
+/workspaces/proyecto-biblioteca/biblioteca-menu/obj/Debug/net10.0/refint/biblioteca-menu.dll
+/workspaces/proyecto-biblioteca/biblioteca-menu/obj/Debug/net10.0/biblioteca-menu.pdb
+/workspaces/proyecto-biblioteca/biblioteca-menu/obj/Debug/net10.0/biblioteca-menu.genruntimeconfig.cache
+/workspaces/proyecto-biblioteca/biblioteca-menu/obj/Debug/net10.0/ref/biblioteca-menu.dll
