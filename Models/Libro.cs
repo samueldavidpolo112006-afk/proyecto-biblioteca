@@ -4,7 +4,6 @@ namespace system_books.Models
 {
     public class Libro
     {
-        // Propiedades
         public int Id { get; set; }
         public string Titulo { get; set; }
         public string Autor { get; set; }
@@ -25,19 +24,16 @@ namespace system_books.Models
             Disponible = true;
         }
 
-        // Método resumen
         public string ResumenCorto()
         {
             return $"Libro: {Titulo} - Disponible: {Disponible}";
         }
 
-        // Método detalle
         public string DetalleCompleto()
         {
             return $"ID: {Id}, Título: {Titulo}, Autor: {Autor}, Disponible: {Disponible}";
         }
 
-        // Método ToString
         public override string ToString()
         {
             return DetalleCompleto();
